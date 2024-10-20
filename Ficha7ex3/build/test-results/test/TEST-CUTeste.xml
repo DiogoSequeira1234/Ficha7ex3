@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CUTeste" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-10-20T10:13:49" hostname="DESKTOP-GO8N2MN" time="0.111">
+  <properties/>
+  <testcase name="testAverageCU()" classname="CUTeste" time="0.018"/>
+  <testcase name="testSearchStudent_NotFound()" classname="CUTeste" time="0.001"/>
+  <testcase name="[1] 1, 10.0, true" classname="CUTeste" time="0.025"/>
+  <testcase name="[2] 2, 8.0, false" classname="CUTeste" time="0.001"/>
+  <testcase name="[3] 3, 9.5, true" classname="CUTeste" time="0.002"/>
+  <testcase name="[4] 4, 12.0, true" classname="CUTeste" time="0.001"/>
+  <testcase name="[1] 1, 10.0" classname="CUTeste" time="0.008"/>
+  <testcase name="[2] 2, 8.0" classname="CUTeste" time="0.001"/>
+  <testcase name="[3] 3, 9.5" classname="CUTeste" time="0.001"/>
+  <testcase name="[4] 4, 12.0" classname="CUTeste" time="0.001"/>
+  <testcase name="testInsertMarkCU()" classname="CUTeste" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
